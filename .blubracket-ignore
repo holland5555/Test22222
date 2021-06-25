@@ -1,0 +1,11 @@
+# **/test/**
+# secret_type:password.*
+
+# secret_type:aws_secret_key.*
+# secret_type:azure_active_directory_client_id
+# secret_type:password_assignment.*
+
+# secret_type:github_oauth_client_id.*
+# secret_type:aws_account_id.*
+
+
