@@ -2,25 +2,16 @@
 password="asdfkljasdlkfasdfjaddasdfslkfjlkjsdaf"  //BluBracketIgnore
 password="asdfkasd4ljasdlkfasdfjaddasdfslkfjlkjsdaf"  //BluBracketIgnore
 
-password="asdfkasd4ljasdlkfasdfjaddesdfslkfjlkjsdaf"  //BluBracketIgnore
+password="asdfkasd4ljasdlkfasdfsdfjaddesdfslkfjlkjsdaf" //BluBracketIgnore
 
-This is a test file
-
-
-
-
-This is test text
-
-Test Test test text here.
-  
-Kjkjsdlfkjsdfjk
-asdfkjaldskjfas
-asdfasdf
-lkfjasdfadsf
-qwerqewr
-qwerqwerqwerqwer
-qwerqwerqwerqewrqwer
-dasfadsfasdf
-rtwertertwert
-
-End of test text
+<html>  
+<head>  
+<script type="text/javascript" src="message.js"></script>  
+</head>  
+<body>  
+<p>Welcome to JavaScript</p>  
+<form>  
+<input type="button" value="click" onclick="msg()"/>  
+</form>  
+</body>  
+</html>  
