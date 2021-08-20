@@ -5,7 +5,7 @@
 # secret_type:azure_active_directory_client_id
 # secret_type:password_assignment.*
 
-# secret_type:github_oauth_client_id.*
+secret_type:github_oauth_client_id.*
 # secret_type:aws_account_id.*
 
 
